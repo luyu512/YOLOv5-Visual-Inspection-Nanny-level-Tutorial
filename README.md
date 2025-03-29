@@ -197,5 +197,19 @@ names: ["hong", "huang", "lan", "hei"]  #修改成自己的标签名称
 在第580行修改训练轮次
 
 在第588行选择gpu or cpu
+
 ![images](https://github.com/luyu512/YOLOv5-Visual-Inspection-Nanny-level-Tutorial/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-29%20222937.png)
+
 然后就可以开始训练了
+
+## 第七步：使用detect.py文件使用训练好的模型
+
+找到detect.py文件
+
+修改“default=ROOT / "yolov5s.pt"” 为 “ default= r"yolov5-master\runs\train\exp14\weights\best.pt"”，注意改成自己的路径
+
+修改“default=ROOT / "data/images"” 为 “default= “0” ”
+
+此时，运行该程序，会发现弹出检测视频框
+
+## 恭喜您，您已成功训练属于自己的数据集并进行了您第一次YOLO视觉实时检测！
