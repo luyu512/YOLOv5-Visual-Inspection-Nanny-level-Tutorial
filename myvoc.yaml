@@ -1,0 +1,6 @@
+train:   #填写train.txt的绝对路径
+val:    #填写val.txt的绝对路径
+ 
+nc: 4 # 填写类别数量
+ 
+names: []  # 类别名称
