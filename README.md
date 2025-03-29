@@ -14,7 +14,7 @@ pip install labelimg -i https://pypi.tuna.tsinghua.edu.cn/simple
 labelImg
 ```
 
-之后，会出现如图如图所示页面![images](https://github.com/luyu512/YOLOv5-Visual-Inspection-Nanny-level-Tutorial/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-29%20215152.png)
+之后，会出现如图所示页面![images](https://github.com/luyu512/YOLOv5-Visual-Inspection-Nanny-level-Tutorial/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-29%20215152.png)
 
 说明安装成功！
 
