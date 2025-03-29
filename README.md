@@ -1,4 +1,4 @@
-# YOLOv5 视觉检测保姆级教程
+# YOLOv5 训练自己的数据集并进行实时检测 保姆级教程
 
 在前一篇教程的基础上(地址：https://github.com/luyu512/YOLOv5-deployment-in-Windows-environment)
 
@@ -211,5 +211,6 @@ names: ["hong", "huang", "lan", "hei"]  #修改成自己的标签名称
 修改“default=ROOT / "data/images"” 为 “default= “0” ”
 
 此时，运行该程序，会发现弹出检测视频框
+![images](https://github.com/luyu512/YOLOv5-Visual-Inspection-Nanny-level-Tutorial/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-03-29%20224833.png)
 
 ## 恭喜您，您已成功训练属于自己的数据集并进行了您第一次YOLO视觉实时检测！
