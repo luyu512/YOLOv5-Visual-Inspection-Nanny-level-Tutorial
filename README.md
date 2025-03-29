@@ -1,1 +1,5 @@
-# YOLOv5-Visual-Inspection-Nanny-level-Tutorial
+# YOLOv5 视觉检测保姆级教程
+
+在前一篇教程的基础上，我们开始学习如何使用YOLOv5进行视觉检测
+
+## 第一步：建立VOCData文件夹
